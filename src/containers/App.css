@@ -1,0 +1,12 @@
+    @font-face {
+    font-family: 'BETERSONS Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BETERSONS Regular'), url('Betersons-ax3LJ.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'BETERSONS Regular';
+        font-weight: 200;
+        color: #9BF3F0;
+    }
